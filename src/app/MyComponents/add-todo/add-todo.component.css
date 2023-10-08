@@ -1,0 +1,9 @@
+.my-3{
+    border-radius: 15px;
+    padding-left: 25vw;
+    padding-bottom: 1vw;
+}
+
+input{
+    width: 50%;
+}
